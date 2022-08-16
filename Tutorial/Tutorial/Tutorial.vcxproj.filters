@@ -36,5 +36,8 @@
     <ClCompile Include="Tut07_IndexBuffer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Tut08_LightMap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
